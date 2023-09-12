@@ -1,0 +1,15 @@
+<html>
+<head>
+<title> sample application </tittle>
+</head>
+
+<body>
+
+<h1>
+Hello friends
+</h1>
+
+
+</boby>
+
+</head>
